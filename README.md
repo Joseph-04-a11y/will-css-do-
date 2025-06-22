@@ -1,7 +1,6 @@
 # 🎨 Will It CSS? Challenge Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
 
 A fun front-end project that generates absurd CSS challenges to test your skills. Perfect for social media sharing and developer engagement!
 
